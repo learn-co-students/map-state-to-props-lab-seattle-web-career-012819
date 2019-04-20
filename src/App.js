@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { connect } from 'react-redux';
 import UserInput from './components/UserInput'
 import ConnectedUsers from './components/Users'
 
