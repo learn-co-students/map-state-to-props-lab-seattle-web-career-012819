@@ -5,7 +5,7 @@ class UserInput extends Component {
 
   state = {
     username: '',
-    hometown: ''
+    hometown: '',
   }
 
   handleInputChange = (event) => {
